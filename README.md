@@ -23,15 +23,15 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
+![img](Screenshot_2023-05-29_03_56_17.png)
+![img](Screenshot_2023-05-29_03_56_37.png)
+![img](Screenshot_2023-05-29_03_56_47.png)
+![img](Screenshot_2023-05-29_03_57_44.png)
+![img]( Screenshot_2023-05-29_03_57_57.png)
+![img]( Screenshot_2023-05-29_03_58_05.png)
+![img]( Screenshot_2023-05-29_04_02_27.png)
+![img]( Screenshot_2023-05-29_04_03_38.png)
+![img](Screenshot_2023-06-02_05_43_03.png)
 ![l](https://github.com/praveenst13/creating-a-backdoor-with-SET/assets/118787793/569bac5b-8b6b-4f99-b679-bdf6e3878475)
 
 
